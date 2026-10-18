@@ -1,5 +1,4 @@
-1. Copy the project folder to ''C:\xampp\htdocs\job''.
-2. Start Apache and MySQL in the XAMPP Control Panel (make sure its green).
-3. Open ''http://localhost/phpmyadmin'' and run '''database/schema.sql''.
-4. Check the credentials in ''config/db.php''.
-5. Open ''http://localhost/job-application-crud/''.
+1. Start Apache and MySQL in the XAMPP Control Panel (make sure its green).
+2. Open ''http://localhost/phpmyadmin'', go to the SQL tab, and run ''schema.sql''.
+3. Copy the PHP files into ''C:\xampp\htdocs\job''.
+4. Open the pages in your browser, for example http://localhost/job/index.php.
